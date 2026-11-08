@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         教學影片防換頁暫停 (選單控制) 測試
+// @name         教學影片防換頁暫停 (選單控制) 
 // @namespace    https://github.com/your-github-username
-// @version      6.3
+// @version      6.4
 // @description  在指定網域盡可能維持影片頁面的可見／焦點狀態；透過 Tampermonkey 選單管理網域。
 // @author       ChatGPT
 // @license      MIT
