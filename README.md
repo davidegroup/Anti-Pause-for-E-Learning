@@ -47,3 +47,6 @@
 ## ⚠️ 免責聲明
 
 本腳本僅供技術交流與個人學習使用。作者不保證本腳本對所有網頁影片播放器皆完全有效 (目前僅實測過輔仁大學 Tronclass，且經實測部分網站設定面板會打不開)，也不對因使用本腳本而導致的任何帳號違規、學業成績爭議或系統異常承擔責任。使用者需自行評估並承擔使用風險。
+
+[Github 儲存庫](https://github.com/davidegroup/Anti-Pause-for-E-Learning)   
+[Greasy Fork 儲存庫](https://greasyfork.org/zh-TW/scripts/604108-%E6%95%99%E5%AD%B8%E5%BD%B1%E7%89%87%E9%98%B2%E6%8F%9B%E9%A0%81%E6%9A%AB%E5%81%9C-%E9%81%B8%E5%96%AE%E6%8E%A7%E5%88%B6)
